@@ -1,0 +1,21 @@
+title: 金匱要略（新編金匱要略方論）原文・注・現代語訳
+description: 『新編金匱要略方論』（四部叢刊本）の原文（句読点つき），校異，徐彬注，日本語訳・英訳と解説
+lang: ja
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
+  - LICENSE
