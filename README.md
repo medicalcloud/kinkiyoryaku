@@ -53,11 +53,11 @@ NN_篇名/
 ## 権利とライセンス
 
 - **古典の文**（『金匱要略』の本文，徐彬注，序・識語などの文）：パブリックドメイン。電子テキストの元になった資料の文を引くときは出典を示している。
-- **このプロジェクトで新しく書いたもの**（句読点，校異・校訂・注釈の説明，日本語訳・英訳，解説，YAML の情報など）：LLM（Claude）を使って作成したもの。[クリエイティブ・コモンズ 表示 4.0 国際（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/deed.ja)で提供する。利用・改変・再配布・商用利用ができる。利用するときは出典として「金匱要略（新編金匱要略方論）原文・注・現代語訳（Hideaki Takata）」とこのリポジトリを示すこと。詳しくは `LICENSE`。
+- **このプロジェクトで新しく書いたもの**（句読点，校異・校訂・注釈の説明，日本語訳・英訳，解説，YAML の情報など）：LLM（Claude）を使って作成したもの。[クリエイティブ・コモンズ 表示-継承 4.0 国際（CC BY-SA 4.0）](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)で提供する。利用・改変・再配布・商用利用ができる。利用するときは出典として「金匱要略（新編金匱要略方論）原文・注・現代語訳（Hideaki Takata）」とこのリポジトリを示すこと。改変したものを配布するときは，同じ CC BY-SA 4.0（またはその互換ライセンス）で提供すること。詳しくは `LICENSE`。
 - 訳と解説は LLM によるもので，誤りがありうる。臨床に用いる判断の根拠にはしないこと。
 
 ---
 
 **English summary**: The *Jingui yaolüe* (Essential Prescriptions of the Golden Cabinet; *Xinbian Jingui yaolüe fanglun*, Sibu congkan edition), split into small units (clauses with their formulas for chapters 1–25; paragraphs for the preface and table of contents). Each unit file contains the classical text (Japanese shinjitai), textual variants among sources, editorial emendations, and Xu Bin's commentary (*Jingui yaolüe lunzhu*); each unit also has Japanese (`.ja.md`) and English (`.en.md`) translations of the text and commentary, with explanatory notes. Each file starts with YAML metadata. A companion project covers the [Shanghan lun](https://github.com/medicalcloud/shokanron).
 
-**License**: The classical texts are in the public domain. Punctuation, notes, translations, and other material newly written for this project (with the help of an LLM, Claude) are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Translations and notes may contain errors and are not medical advice.
+**License**: The classical texts are in the public domain. Punctuation, notes, translations, and other material newly written for this project (with the help of an LLM, Claude) are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Translations and notes may contain errors and are not medical advice.
