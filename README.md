@@ -2,7 +2,7 @@
 
 『金匱要略』（『新編金匱要略方論』，四部叢刊本）の原文を，条文（または段落）ごとの小さな単位に分け，資料間の異同（校異）・校訂，徐彬『金匱要略論註』の注（原文），現代語訳（日本語・英語）と組み合わせたもの。人が読むためだけでなく，LLM が読みやすいことを目指して，1単位を1ファイルにし，ファイルの頭に機械で読める情報（YAML）を付けている。
 
-全篇（782単位）について，句読点を付けた原文，校異・校訂・注釈，徐彬注（原文），日本語訳・英訳（原文と徐彬注の訳，解説）がそろっている。位置を定められなかった篇首の徐彬注は，篇の `index.md` に日本語訳を付けた（英訳なし，2026-10-30）。姉妹編に[傷寒論](https://github.com/medicalcloud/shokanron)・[黄帝内経](https://github.com/medicalcloud/koteidaikei)・[神農本草経](https://github.com/medicalcloud/shinnohonzokyo)・[和剤局方](https://github.com/medicalcloud/wazaikyokuho)・[難経](https://github.com/medicalcloud/nangyo)・[薬徴](https://github.com/medicalcloud/yakucho)・[二十四史の医療の記事](https://github.com/medicalcloud/24shi)がある。
+全篇（782単位）について，句読点を付けた原文，校異・校訂・注釈，徐彬注（原文），日本語訳・英訳（原文と徐彬注の訳，解説）がそろっている。位置を定められなかった篇首の徐彬注は，篇の `index.md` に日本語訳を付けた（英訳なし，2026-10-30）。姉妹編に[傷寒論](https://github.com/medicalcloud/shokanron)・[黄帝内経](https://github.com/medicalcloud/koteidaikei)・[神農本草経](https://github.com/medicalcloud/shinnohonzokyo)・[和剤局方](https://github.com/medicalcloud/wazaikyokuho)・[難経](https://github.com/medicalcloud/nangyo)・[薬徴](https://github.com/medicalcloud/yakucho)，[山海経](https://github.com/medicalcloud/sengaikyo)・[二十四史の医療の記事](https://github.com/medicalcloud/24shi)がある。
 
 ## 構成
 
