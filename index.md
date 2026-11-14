@@ -4,11 +4,11 @@ title: 目次
 
 # 金匱要略（新編金匱要略方論）原文・注・現代語訳
 
-『新編金匱要略方論』（四部叢刊本）の原文を，条文（または段落）ごとの単位に分け，句読点を付けた原文，資料間の校異・校訂，徐彬『金匱要略論註』の注（原文），日本語訳・英訳と解説を組み合わせたもの。各単位のページから日本語訳・英訳に移れる。
+『新編金匱要略方論』（四部叢刊本）の原文を、条文（または段落）ごとの単位に分け、句読点を付けた原文、資料間の校異・校訂、徐彬『金匱要略論註』の注（原文）、日本語訳・英訳と解説を組み合わせたもの。各単位のページから日本語訳・英訳に移れる。
 
-- 作り方・資料・字体の方針：[README（GitHub）](https://github.com/medicalcloud/kinkiyoryaku#readme)，[字体と変換の方針](字体と変換の方針.md)
+- 作り方・資料・字体の方針：[README（GitHub）](https://github.com/medicalcloud/kinkiyoryaku#readme)、[字体と変換の方針](字体と変換の方針.md)
 - 全データ（Markdown＋YAML）：[GitHub medicalcloud/kinkiyoryaku](https://github.com/medicalcloud/kinkiyoryaku)
-- 姉妹編：[傷寒論](https://medicalcloud.github.io/shokanron/)，[黄帝内経](https://medicalcloud.github.io/koteidaikei/)，[神農本草経](https://medicalcloud.github.io/shinnohonzokyo/)，[和剤局方](https://medicalcloud.github.io/wazaikyokuho/)，[難経](https://medicalcloud.github.io/nangyo/)，[薬徴](https://medicalcloud.github.io/yakucho/)，[山海経](https://medicalcloud.github.io/sengaikyo/)，[脾胃論](https://medicalcloud.github.io/hiiron/)，[内外傷弁惑論](https://medicalcloud.github.io/naigaishobenwakuron/)，[本草綱目](https://medicalcloud.github.io/honzokomoku/)，[二十四史の医療の記事](https://medicalcloud.github.io/24shi/)
+- 姉妹編：[傷寒論](https://medicalcloud.github.io/shokanron/)、[黄帝内経](https://medicalcloud.github.io/koteidaikei/)、[神農本草経](https://medicalcloud.github.io/shinnohonzokyo/)、[和剤局方](https://medicalcloud.github.io/wazaikyokuho/)、[難経](https://medicalcloud.github.io/nangyo/)、[薬徴](https://medicalcloud.github.io/yakucho/)、[山海経](https://medicalcloud.github.io/sengaikyo/)、[脾胃論](https://medicalcloud.github.io/hiiron/)、[内外傷弁惑論](https://medicalcloud.github.io/naigaishobenwakuron/)、[本草綱目](https://medicalcloud.github.io/honzokomoku/)、[二十四史の医療の記事](https://medicalcloud.github.io/24shi/)
 
 ## 篇の一覧
 
